@@ -1,7 +1,5 @@
-body proportions
-hdr
-material
-meshes
+/hdr*
+/materials*
+/meshes*
 
-*.png
-*.jpg
+*.afphoto~lock~
